@@ -4,4 +4,5 @@ Matherials for dissertation 1. Doctoral seminar-PowerPoint presentation. This se
 2. The plan of the project
 Darek, gratulacje z powodu otwarcia przewodu doktorskiego. Świetne wystąpienie. A liczenie na potężnych clustrach obliczeniowych ma wielką przyszłość w biologii...
 Może można wykorzystać https://gitlab.com/users/dizak/groups
-Nasz cluster teraz świetnie działa, bo mamy administratora,
+Nasz cluster teraz świetnie działa, bo mamy administratora.
+Jeszcze 
