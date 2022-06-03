@@ -9,4 +9,4 @@ Darek, gratulacje z powodu otwarcia przewodu doktorskiego. Świetne wystąpienie
 Może można wykorzystać https://gitlab.com/users/dizak/groups? Super.
 Nasz cluster teraz świetnie działa, bo mamy administratora.
 Jeszcze mamy filmik https://www.youtube.com/watch?v=PTxDnuhzzqI ??
-Dobrze jest też wspomnieć, o tym, że rozwijamy kulture pracy opartą na podejściu typu agile and leaan.
+Dobrze jest też wspomnieć, o tym, że rozwijamy kulture pracy opartą na podejściu typu "agile and leaan".
