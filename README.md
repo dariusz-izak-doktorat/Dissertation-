@@ -6,7 +6,7 @@ Matherials for dissertation 1. Doctoral seminar-PowerPoint presentation. This se
 4. cv https://dizak.github.io/online-cv/ and scans
 
 Darek, gratulacje z powodu otwarcia przewodu doktorskiego. Świetne wystąpienie. A liczenie na potężnych clustrach obliczeniowych ma wielką przyszłość w biologii...
-Może można wykorzystać https://gitlab.com/users/dizak/groups? Super.
+Może można wykorzystać https://gitlab.com/users/dizak/groups? 
 Nasz cluster teraz świetnie działa, bo mamy administratora.
 Jeszcze mamy filmik https://www.youtube.com/watch?v=PTxDnuhzzqI ??
 Podejście typu "agile and leaan" jest super https://jobicon.pracuj.pl/wystawca/20004439. Można wspomnieć o nim.
