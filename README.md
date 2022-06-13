@@ -5,7 +5,7 @@ Matherials for dissertation 1. Doctoral seminar-PowerPoint presentation. This se
 3. Figures ??
 4. cv https://dizak.github.io/online-cv/ and scans
 
-Darek, gratulacje z powodu otwarcia przewodu doktorskiego. Świetne wystąpienie. A liczenie na potężnych clustrach obliczeniowych ma wielką przyszłość w biologii... Fajne ilustracje interakcji fizycznych.
+Darek, gratulacje z powodu otwarcia przewodu doktorskiego. Tysiące godzin pracy, to widać, Świetne wystąpienie. A liczenie na potężnych clustrach obliczeniowych ma wielką przyszłość w biologii... Fajne ilustracje interakcji fizycznych.
 Może można wykorzystać https://gitlab.com/users/dizak/groups? 
 Nasz cluster teraz świetnie działa, bo mamy administratora.
 Jeszcze mamy filmik https://www.youtube.com/watch?v=PTxDnuhzzqI ??
