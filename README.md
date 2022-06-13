@@ -1,6 +1,6 @@
 # Dissertation-
 Matherials for dissertation 1. Doctoral seminar-PowerPoint presentation. This seminar is required and is a kind of exam.
-1. The doctoral seminar Ewolucja sieci interakcji genetycznych.pptx
+1. The doctoral seminar Ewolucja_sieci_interakcji_genetycznych.pptx
 2. The plan of the project
 3. Figures ??
 4. cv https://dizak.github.io/online-cv/ and scans
