@@ -9,4 +9,4 @@ Darek, gratulacje z powodu otwarcia przewodu doktorskiego. Tysiące godzin pracy
 Może można wykorzystać https://gitlab.com/users/dizak/groups? 
 Nasz cluster teraz świetnie działa, bo mamy administratora.
 Jeszcze mamy filmik https://www.youtube.com/watch?v=PTxDnuhzzqI ??
-Podejście typu "agile and leaan" jest super. To jest jeszcze w sieci i githubie https://perso.crans.org/besson/phd/articles/PhD_thesis__Lilian_Besson.pdf
+Podejście typu "agile and leaan" jest super. To jest jeszcze w sieci i githubie https://perso.crans.org/besson/phd/articles/PhD_thesis__Lilian_Besson.pdf dobra inspiracja takiego repozytorium.
